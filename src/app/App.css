@@ -120,6 +120,7 @@ a {
 .app-container {
   position: relative;
   height: 100vh;
+  min-width: 100vh;
   max-width: 750px;
   margin: auto;
   background: url('../assets/inner_bg.png') no-repeat center / 100% 100%;
